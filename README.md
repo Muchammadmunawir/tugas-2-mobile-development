@@ -1,7 +1,7 @@
-Tugas 2 - Mobile Development (GDGOC Telkom)
+# Tugas 2 - Mobile Development (GDGOC Telkom)
 Repository ini berisi tugas "Hitung Total Belanja" menggunakan bahasa pemrograman Dart, yang mengimplementasikan konsep Object-Oriented Programming (OOP) dan Collections.
 
-Fitur Code
+# Fitur Code
 ✅ Penggunaan Class dan Object ( Properti nama dan harga )
 
 ✅ Implementasi Collection ( List untuk menampung objek )
