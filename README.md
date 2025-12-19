@@ -10,7 +10,7 @@ Repository ini berisi tugas "Hitung Total Belanja" menggunakan bahasa pemrograma
 
 ✅ Menampilkan Output ( Fungsi print() untuk total harga )
 
-Detail Tugas
+# Detail Tugas
 Tugas ini berfokus pada pengolahan data objek dalam sebuah daftar (list) untuk mensimulasikan sistem kasir sederhana:
 
 Definisi Barang: Membuat class sebagai blueprint.
